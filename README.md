@@ -18,7 +18,7 @@ This is a simple React Native weather app built with **Expo**. It uses the **Ope
 
 ### 📸 Demo Screenshot
 
-![screenshot placeholder](https://via.placeholder.com/400x300.png?text=Weather+App)
+![screenshot placeholder](./assets/screenshot.png)
 
 ### 🔑 How to Run Locally
 
